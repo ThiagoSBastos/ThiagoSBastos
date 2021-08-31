@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 📊 Github Stats
+<a href='https://github.com/ThiagoSBastos/github-stats-transparent'>
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=ThiagoSBastos&show_icons=true&theme=gruvbox) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSBastos&layout=compact)](https://github.com/ThiagoSBastos/github-readme-stats)
+  
+</a>
+ 
 <!--
 **ThiagoSBastos/ThiagoSBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
